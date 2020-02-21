@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "778636288210",
+    "firebase_url": "https://uploadit-e399a.firebaseio.com",
+    "project_id": "uploadit-e399a",
+    "storage_bucket": "uploadit-e399a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778636288210:android:d9dcb0e4757ee036ee0d0b",
+        "android_client_info": {
+          "package_name": "com.smartex.uploadit"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "778636288210-ubupf2lc9l6bmkm2nhrhur02f4lm05mm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.smartex.uploadit",
+            "certificate_hash": "b64e3d6645e618923a653596ad6363e7b2da4e6e"
+          }
+        },
+        {
+          "client_id": "778636288210-ies74c53smt37pmq0m7d6mgtd512dq6r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrfGt2Z3RRZFZfoSFgrIJvnNS00FtlWmE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "778636288210-ies74c53smt37pmq0m7d6mgtd512dq6r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
